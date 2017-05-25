@@ -1,7 +1,8 @@
 ##  emu8086  quicksort
 
 #### 参考算法
-``
+
+````
 /**
  * @author  TIAN
  * @brief   交换数组位置i和位置j的元素
@@ -69,4 +70,4 @@ static void array_qsort(int array[], int low, int high)
 	}
 }
 
-``
+````

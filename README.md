@@ -1,6 +1,7 @@
 ##  emu8086  quicksort
 
-#### 参考算法
+#### 参考算法 
+[链接](http://blog.csdn.net/morewindows/article/details/6684558)
 
 ````
 /**
@@ -72,4 +73,3 @@ static void array_qsort(int array[], int low, int high)
 
 ````
 
-[链接](http://blog.csdn.net/morewindows/article/details/6684558)

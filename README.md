@@ -71,3 +71,5 @@ static void array_qsort(int array[], int low, int high)
 }
 
 ````
+
+[链接](http://blog.csdn.net/morewindows/article/details/6684558)

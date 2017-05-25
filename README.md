@@ -1,7 +1,6 @@
-##  emu8086  quicksort
+#  EMU8086  QuickSort
 
-#### 参考算法 
-[链接](http://blog.csdn.net/morewindows/article/details/6684558)
+#### 参考算法 [链接](http://blog.csdn.net/morewindows/article/details/6684558)
 
 ````
 /**
